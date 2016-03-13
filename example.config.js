@@ -8,5 +8,8 @@ module.exports = {
   	apiKey: 'key-XXXXXXXXXXXXXXXXXXXXXXX',
   	domain: 'mydomain.mailgun.org'
   },
-  notifyEmail: 'you@yourdomain.com'
+  notifyEmail: 'you@yourdomain.com',
+  notifyFrom: 'Scraper Watcher <scraperwatcher@yourdomain.com>',
+  schedule: '* */5 * * * *',
+  debug: false,
 };
