@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "Polls a webpage selector on a schedule you set and notifies you when a specific string has been found",
   "main": "index.js",
-  "author": "Josh Rickert <rickertjosh@gmail.com",
+  "author": "Josh Rickert <rickertjosh@gmail.com>",
+  "repository": "joshrickert/scraper-watcher",
   "license": "MIT",
   "engines": { "node": ">=4" },
   "scripts": {
