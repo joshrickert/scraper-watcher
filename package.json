@@ -5,6 +5,7 @@
   "main": "index.js",
   "author": "Josh Rickert <rickertjosh@gmail.com",
   "license": "MIT",
+  "engines": { "node": ">=4" },
   "scripts": {
     "start": "node index.js"
   },
